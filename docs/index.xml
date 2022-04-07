@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://luisrodriguez11.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://luisrodriguez11.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog del conocimiento</title>
+      <link>https://luisrodriguez11.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisrodriguez11.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! Ten paciencia y activa tus notificaciones para que no te pierdas el primer contenido de mi blog. Hablaremos de como funciona una qué es una API y como podemos hacer peticiones.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://luisrodriguez11.github.io/my_launchx_blog/posts/intro/</link>
